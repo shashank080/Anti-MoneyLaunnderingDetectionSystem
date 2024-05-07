@@ -1,5 +1,11 @@
 <h1>Title: Anti-Money Laundering Detection System</h1>
 
+Team Members:
+Shashank raj Gupta Gunta
+Rohit Eerabattini
+Yeshwanth Thalapaneni
+
+
 Description:
 This project implements a machine learning-based system to detect money laundering activities in financial transactions. The system uses Logistic Regression and Random Forest Classifier models to analyze a large dataset and identify suspicious transactions.
 
