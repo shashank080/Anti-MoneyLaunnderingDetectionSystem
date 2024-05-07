@@ -1,9 +1,9 @@
 <h1>Title: Anti-Money Laundering Detection System</h1>
 
 Team Members:
-Shashank raj Gupta Gunta
-Rohit Eerabattini
-Yeshwanth Thalapaneni
+Shashank raj gupta Gunta,
+Rohit Eerabattini,
+Yeshwanth Thalapaneni, 
 
 
 Description:
