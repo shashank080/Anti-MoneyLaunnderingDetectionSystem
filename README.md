@@ -1,6 +1,4 @@
-README.txt
-
-Title: Anti-Money Laundering Detection System
+<h1>Title: Anti-Money Laundering Detection System</h1>
 
 Description:
 This project implements a machine learning-based system to detect money laundering activities in financial transactions. The system uses Logistic Regression and Random Forest Classifier models to analyze a large dataset and identify suspicious transactions.
@@ -28,8 +26,8 @@ Running the Project:
    - Subsequent cells include exploratory data analysis, feature engineering, and model training.
    - Note: Running the model training cells will take a considerable amount of time due to the size of the dataset.
 
-GitHub Repository:
-- [Insert your GitHub repository links here]
+[GitHub Repository:]
+- (https://github.com/shashank080/Anti-MoneyLaunnderingDetectionSystem)
 
 Additional Notes:
 - Due to the large size of the dataset, some operations, especially model training, can be very time-consuming.
